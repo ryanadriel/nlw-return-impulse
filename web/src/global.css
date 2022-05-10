@@ -10,6 +10,7 @@ body {
   height: 100vh;
 
   background: linear-gradient(#121214 0%,#2C165C 25%, #881656 80%, #CE3937 110%);
+  background-image: url(../src/assets/imgs/Mobile\ 1\ -\ NLW-return\ -\ \ 1080x1920.png);
 }
 
 #root span.BackgroundImage {
