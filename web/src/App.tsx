@@ -1,5 +1,12 @@
 import { Widget } from "./components/Widget";
 
 export function App(){
-  return <Widget />
+  return(
+  <>
+  <span data-html2canvas-ignore className='BackgroundImage'></span>
+  <div>
+  <Widget />
+  </div>
+  </>
+  )
 }

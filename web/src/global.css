@@ -2,5 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  @apply bg-[#141414] text-zinc-100;
+  @apply bg-[#090909] text-zinc-100;
+}
+
+#root >div {
+  width: 100vw;
+  height: 100vh;
+
+  background: linear-gradient(#121214 0%,#2C165C 25%, #881656 80%, #CE3937 110%);
+}
+
+#root span.BackgroundImage {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url(../src/assets/imgs/NLW-return\ -\ 1920x1080.png);
+  background-repeat: no-repeat;
+  background-size: 100vw;
+  background-position: center; 
 }
