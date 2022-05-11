@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Fidget" src="" width="100%">
+  <img alt="Fidget" src="web/src/assets/Captura de tela 2022-05-10 130709.png" width="100%">
 </p>
 
 ### 💻 Projeto
